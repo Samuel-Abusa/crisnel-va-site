@@ -1,0 +1,55 @@
+article {
+  background: white;
+  border-radius: 0.4rem;
+}
+article .container {
+  width: 90%;
+}
+article .container .va-main-img {
+  border-radius: 50%;
+  height: 45px;
+  width: 45px;
+}
+article .container h4 {
+  font-size: 1.1rem;
+}
+article .container h6 {
+  font-size: 0.85rem;
+  margin: 0 !important;
+}
+article .container .bi-share {
+  cursor: pointer;
+}
+article .container .modal-body .bi {
+  font-size: 30px;
+  cursor: pointer;
+}
+article .container .modal-body .bi-facebook {
+  color: #3b5998;
+}
+article .container .modal-body .bi-twitter {
+  color: #00acee;
+}
+article .container .modal-body .bi-linkedin {
+  color: #0e76a8;
+}
+article .container .main-content h1 {
+  font-size: 1.4rem;
+}
+article .container .main-content p {
+  line-height: 30px;
+  font-size: 0.95rem;
+}
+article .container .main-content li {
+  font-size: 0.95rem;
+}
+
+@media (max-width: 768px) {
+  .main-content h1 {
+    font-size: 1rem !important;
+  }
+  .main-content p {
+    font-size: 0.9rem !important;
+  }
+}
+/*# sourceMappingURL=blog1.850ca59b.css.map */
